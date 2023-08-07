@@ -13,7 +13,7 @@ services:
     volumes:
       - dbdwh:/data/postgres-dwh-aht
     ports:
-      - "4002:5432"
+      - "4004:5432"
     restart: unless-stopped
 volumes:
   dbdwh:
