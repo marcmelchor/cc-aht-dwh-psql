@@ -15,3 +15,4 @@ All notable changes to this project will be documented in this file.
 ### Added
 
 - Schemas for the database.
+- README file.
